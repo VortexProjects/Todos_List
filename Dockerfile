@@ -19,3 +19,5 @@ ENV DB_PASSWORD=ThePassword
 EXPOSE 8090
 
 CMD ["mvn","spring-boot:run"]
+
+
